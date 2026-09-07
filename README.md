@@ -8,7 +8,7 @@ My work focuses on securing and configuring systems, implementing access control
 
 ---
 
-Featured Projects
+Featured Projects:
 
  Active Directory Security Lab
 
@@ -24,7 +24,7 @@ Automated and secured a Windows Server Active Directory environment using PowerS
 
 ---
 
- ☁️ Kubernetes Cloud Security Lab
+ Kubernetes Cloud Security Lab
 
 Containerised and deployed a three-tier application using Docker and Kubernetes with security, monitoring and cloud-native technologies.
 
@@ -38,7 +38,7 @@ Containerised and deployed a three-tier application using Docker and Kubernetes 
 
 ---
 
-🔐 Security Automation Toolkit
+Security Automation Toolkit
 
 Python-based security automation toolkit developed and tested in an isolated security lab.
 
