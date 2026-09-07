@@ -1,16 +1,16 @@
-# Ismail Butt Haleem
+ Ismail Butt Haleem
 
-### Cyber Security | Information Security | Security Engineering | GRC
+Cyber Security | Information Security | Security Engineering | GRC
 
-BSc (Hons) Cyber Security student — **Predicted First** — with hands-on experience across Active Directory security, infrastructure automation, cloud-native security and Python security tooling.
+BSc (Hons) Cyber Security student — Predicted First — with hands-on experience across Active Directory security, infrastructure automation, cloud-native security and Python security tooling.
 
 My work focuses on securing and configuring systems, implementing access controls, troubleshooting infrastructure and applying security controls across Windows, Linux and Kubernetes environments.
 
 ---
 
-## Featured Projects
+Featured Projects
 
-### 🛡️ Active Directory Security Lab
+ Active Directory Security Lab
 
 Automated and secured a Windows Server Active Directory environment using PowerShell DSC, Group Policy and role-based access control.
 
@@ -24,7 +24,7 @@ Automated and secured a Windows Server Active Directory environment using PowerS
 
 ---
 
-### ☁️ Kubernetes Cloud Security Lab
+ ☁️ Kubernetes Cloud Security Lab
 
 Containerised and deployed a three-tier application using Docker and Kubernetes with security, monitoring and cloud-native technologies.
 
@@ -38,7 +38,7 @@ Containerised and deployed a three-tier application using Docker and Kubernetes 
 
 ---
 
-### 🔐 Security Automation Toolkit
+🔐 Security Automation Toolkit
 
 Python-based security automation toolkit developed and tested in an isolated security lab.
 
@@ -52,18 +52,18 @@ Python-based security automation toolkit developed and tested in an isolated sec
 
 ---
 
-## Certifications
+Certifications
 
-- **Cisco Certified Support Technician (CCST) — Networking**
-- **CompTIA Security+ — In Progress**
+- Cisco Certified Support Technician (CCST) — Networking
+- CompTIA Security+ — In Progress
 
 ---
 
-## Current Focus
+Current Focus
 
 Currently preparing for CompTIA Security+ while completing my BSc (Hons) Cyber Security.
 
-My interests include **information security, security engineering, cloud and infrastructure security, identity and access management, and governance, risk and compliance (GRC).**
+My interests include information security, security engineering, cloud and infrastructure security, identity and access management, and governance, risk and compliance (GRC).
 
 ---
 
