@@ -67,3 +67,8 @@ My interests include information security, security engineering, cloud and infra
 
 ---
 
+---
+
+Connect
+
+- LinkedIn: [Ismail Butt Haleem](https://www.linkedin.com/in/ismailbutt/)
